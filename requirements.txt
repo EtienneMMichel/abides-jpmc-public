@@ -1,5 +1,4 @@
 coloredlogs==15.0.1
-gym==0.18.0
 numpy==1.22.0
 pandas==1.2.4
 pomegranate==0.14.5
